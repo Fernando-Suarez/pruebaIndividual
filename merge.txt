@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 esta es la prueba del merge 2
+=======
+esta es la prueba del merge 2 v
+>>>>>>> b4bf700 (esta es la prueba del merge 2 v)
